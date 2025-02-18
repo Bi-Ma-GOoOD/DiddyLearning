@@ -1,0 +1,4 @@
+# Ignore all model
+*.pt
+# Ignore all dataset
+dataset/
