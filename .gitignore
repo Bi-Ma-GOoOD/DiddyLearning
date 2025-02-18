@@ -2,3 +2,8 @@
 *.pt
 # Ignore all dataset
 dataset/
+# Ignore all output
+runs/
+# Ignore output and temp file
+output/
+temp/
