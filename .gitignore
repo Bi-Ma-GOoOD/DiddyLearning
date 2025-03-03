@@ -2,3 +2,4 @@
 *.pt
 # Ignore all dataset
 Data/
+.env
