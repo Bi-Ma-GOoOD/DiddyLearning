@@ -1,5 +1,6 @@
 # Ignore all model
 *.pt
+*.h5
 # Ignore all dataset
 Data/
 .env
