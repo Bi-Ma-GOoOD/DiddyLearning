@@ -1,4 +1,11 @@
 # Ignore all model
 *.pt
+<<<<<<< HEAD
 # Ignore all dataset
 Data/
+=======
+*.h5
+# Ignore all dataset
+Data/
+.env
+>>>>>>> d7c5c73b256fbfb0c2e03e66d731beb61151e1e9
