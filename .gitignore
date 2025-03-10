@@ -1,6 +1,9 @@
 # Ignore all model
-*.pt
-*.h5
 # Ignore all dataset
-Data/
+dataset/
+back_up_dataset
+*.jpg
+*.pt
+*.png
+*.tif
 .env
