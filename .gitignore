@@ -1,9 +1,8 @@
 # Ignore all model
 # Ignore all dataset
+predicted/
 dataset/
 back_up_dataset
-*.jpg
-*.pt
-*.png
-*.tif
+yolo11n.pt
+yolov8n.pt
 .env
