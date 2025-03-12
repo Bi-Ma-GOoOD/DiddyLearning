@@ -98,7 +98,7 @@
 - first, you should go to this [Link](https://github.com/potaege/web-detected-Parasitic-Egg.git)
 - second, use git clone "https://github.com/potaege/web-detected-Parasitic-Egg.git" in git bash or command prompt
 - third, use dl_env or use environment that you create in [Create_Environment](#create-environment) to install these libraries.
-- Forth, install python and then when python installed. Use pip install Flask ultralytics opencv-python when you successfully installing complete.
+- Forth, install python and then when python installed. Use "pip install Flask ultralytics opencv-python flask" when you successfully installing complete.
 - Fifth, open the file in VS-Code and press ctrl+shift+p click select interpreter and choose the name of environment that you crate in [Create_Environment](#create-environment)
 - Sixth, click terminal and choose new terminal and then type python app.py to run our project application.
 - [Learn more](https://github.com/potaege/web-detected-Parasitic-Egg.git)
