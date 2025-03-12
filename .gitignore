@@ -1,0 +1,9 @@
+# Ignore all model
+# Ignore all dataset
+predicted/
+predicted2/
+dataset/
+back_up_dataset
+yolo11n.pt
+yolov8n.pt
+.env
